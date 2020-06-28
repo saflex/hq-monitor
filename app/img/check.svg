@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Group 21</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.-register__1440_done" transform="translate(-660.000000, -424.000000)">
+            <g id="Group-2" transform="translate(220.000000, 156.000000)">
+                <g id="Text" transform="translate(0.000000, 76.000000)">
+                    <g id="Group-21" transform="translate(436.000000, 188.000000)">
+                        <rect id="Rectangle" x="0" y="0" width="128" height="128"></rect>
+                        <rect id="Rectangle-Copy-2" x="4" y="4" width="120" height="120"></rect>
+                        <circle id="Oval" fill-opacity="0.15" fill="#6714B3" cx="62" cy="74" r="50"></circle>
+                        <path d="M22.4143131,46.7752964 C20.2142627,52.0809414 19,57.8986676 19,64 C19,88.8528137 39.1471863,109 64,109 L64,109 C76.4264069,109 87.6764069,103.963203 95.8198052,95.8198052 M105.585687,81.2247036 C107.785737,75.9190586 109,70.1013324 109,64 C109,39.1471863 88.8528137,19 64,19 C51.5735931,19 40.3235931,24.0367966 32.1801948,32.1801948" id="Shape" stroke="#000000" stroke-width="4" stroke-linecap="round"></path>
+                        <circle id="Oval" fill="#000000" cx="101" cy="89" r="2"></circle>
+                        <circle id="Oval-Copy" fill="#000000" cx="26" cy="39" r="2"></circle>
+                        <polyline id="Path-4" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="52 64.6758949 59.9437498 72.6196447 77.5633945 53"></polyline>
+                        <path d="M21.7937078,24.2175016 C12.0017155,34.6022662 6,48.6002452 6,64 M6.74605354,73.3274227 C9.04046533,87.5200503 16.4849876,99.9874705 27.1005592,108.750622 M64,122 L64,122 C71.5651819,122 78.7920735,120.551607 85.4184994,117.916995 M116.81435,88.0060399 C120.144761,80.69072 122,72.5620172 122,64 C122,31.9674845 96.0325155,6 64,6 C62.0569513,6 60.1362187,6.09554658 58.2422443,6.28219769" id="Shape" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

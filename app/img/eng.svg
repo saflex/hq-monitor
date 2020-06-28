@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="17px" viewBox="0 0 25 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>GB</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1.08357767e-13" y="-4.4408921e-14" width="24.01" height="16.1972222" rx="2"></rect>
+        <rect id="path-3" x="1.08357767e-13" y="-4.4408921e-14" width="24.01" height="16.1972222" rx="2"></rect>
+        <rect id="path-5" x="1.08357767e-13" y="-4.4408921e-14" width="24.01" height="16.1972222" rx="2"></rect>
+        <rect id="path-7" x="1.08357767e-13" y="-4.4408921e-14" width="24.01" height="16.1972222" rx="2"></rect>
+        <rect id="path-9" x="1.08357767e-13" y="-4.4408921e-14" width="24.01" height="16.1972222" rx="2"></rect>
+        <rect id="path-11" x="1.08357767e-13" y="-4.4408921e-14" width="24.01" height="16.1972222" rx="2"></rect>
+        <rect id="path-13" x="1.08357767e-13" y="-4.4408921e-14" width="24.01" height="16.1972222" rx="2"></rect>
+    </defs>
+    <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.-index_1440-_states" transform="translate(-1340.000000, -94.000000)">
+            <g id="Group-3" transform="translate(1324.000000, 42.000000)">
+                <g id="Group-7-Copy" transform="translate(16.000000, 48.000000)">
+                    <g id="GB" transform="translate(0.000000, 4.000000)">
+                        <g id="Group">
+                            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="1.08357767e-13" y="-4.4408921e-14" width="24.01" height="16.1972222" rx="2"></rect>
+                            <g id="Clipped">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="gb-a"></g>
+                                <polygon id="Path" fill="#0A17A7" fill-rule="nonzero" mask="url(#mask-2)" points="1.08357767e-13 -4.4408921e-14 24.01 -4.4408921e-14 24.01 16.1972222 1.08357767e-13 16.1972222"></polygon>
+                            </g>
+                            <g id="Clipped">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <g id="gb-c"></g>
+                                <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-4)" points="5.723 10.7978333 1.09690035e-13 10.7978333 1.09690035e-13 5.39938889 5.723 5.39938889 -2.378 0.238 -1.1 -1.55172222 9.147 4.97533333 9.147 -1.0795 14.863 -1.0795 14.863 4.97533333 25.11 -1.55172222 26.388 0.238 18.287 5.39938889 24.01 5.39938889 24.01 10.7978333 18.287 10.7978333 26.388 15.9592222 25.11 17.7489444 14.863 11.2218889 14.863 17.2767222 9.147 17.2767222 9.147 11.2218889 -1.1 17.7489444 -2.378 15.9592222"></polygon>
+                            </g>
+                            <g id="Clipped">
+                                <mask id="mask-6" fill="white">
+                                    <use xlink:href="#path-5"></use>
+                                </mask>
+                                <g id="gb-e"></g>
+                                <path d="M16.008,5.12833333 L26.868,-1.61972222" id="Path" stroke="#DB1F35" stroke-width="0.667" stroke-linecap="round" mask="url(#mask-6)"></path>
+                            </g>
+                            <g id="Clipped">
+                                <mask id="mask-8" fill="white">
+                                    <use xlink:href="#path-7"></use>
+                                </mask>
+                                <g id="gb-g"></g>
+                                <path d="M17.161,17.2908889 L26.897,11.0934444" id="Path" stroke="#DB1F35" stroke-width="0.667" stroke-linecap="round" mask="url(#mask-8)" transform="translate(22.029000, 14.192167) scale(-1, 1) rotate(-180.000000) translate(-22.029000, -14.192167) "></path>
+                            </g>
+                            <g id="Clipped">
+                                <mask id="mask-10" fill="white">
+                                    <use xlink:href="#path-9"></use>
+                                </mask>
+                                <g id="gb-i"></g>
+                                <path d="M6.865,5.11038889 L-3.291,-1.35338889" id="Path" stroke="#DB1F35" stroke-width="0.667" stroke-linecap="round" mask="url(#mask-10)"></path>
+                            </g>
+                            <g id="Clipped">
+                                <mask id="mask-12" fill="white">
+                                    <use xlink:href="#path-11"></use>
+                                </mask>
+                                <g id="gb-k"></g>
+                                <path d="M7.966,18.0681667 L-3.29,11.0178889" id="Path" stroke="#DB1F35" stroke-width="0.667" stroke-linecap="round" mask="url(#mask-12)" transform="translate(2.338000, 14.543028) scale(-1, 1) rotate(-180.000000) translate(-2.338000, -14.543028) "></path>
+                            </g>
+                            <g id="Clipped">
+                                <mask id="mask-14" fill="white">
+                                    <use xlink:href="#path-13"></use>
+                                </mask>
+                                <g id="gb-m"></g>
+                                <polygon id="Path" fill="#E6273E" fill-rule="nonzero" mask="url(#mask-14)" points="1.08357767e-13 9.71833333 10.29 9.71833333 10.29 16.1972222 13.72 16.1972222 13.72 9.71833333 24.01 9.71833333 24.01 6.47888889 13.72 6.47888889 13.72 -4.4408921e-14 10.29 -4.4408921e-14 10.29 6.47888889 1.08357767e-13 6.47888889"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

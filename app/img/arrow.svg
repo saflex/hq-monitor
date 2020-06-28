@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="12px" viewBox="0 0 18 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>ic-arrow-forward</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.-index_1440" transform="translate(-327.000000, -1538.000000)">
+            <g id="SOLUTIONS" transform="translate(50.000000, 847.000000)">
+                <g id="Rectangle-3" transform="translate(0.000000, 256.000000)">
+                    <g id="Group-19" transform="translate(0.000000, -0.000000)">
+                        <g id="Group-18" transform="translate(122.000000, 428.000000)">
+                            <g id="ic-arrow-forward" transform="translate(151.000000, 0.000000)">
+                                <polygon id="Path" points="0.995 0.995 25.005 0.995 25.005 25.005 0.995 25.005"></polygon>
+                                <path d="M15.2945,7.702 L15.2945,7.702 C14.9047446,8.09147919 14.9041926,8.72307226 15.2932666,9.11323215 L18.172,12 L4.997,12 C4.44471525,12 3.997,12.4477153 3.997,13 L3.997,13 C3.997,13.5522847 4.44471525,14 4.997,14 L18.172,14 L15.2932666,16.8867679 C14.9041926,17.2769277 14.9047446,17.9085208 15.2945,18.298 L15.2945,18.298 C15.6841773,18.6874012 16.3157108,18.6872892 16.70525,18.29775 L22.003,13 L16.70525,7.70225004 C16.3157108,7.31271077 15.6841773,7.31259883 15.2945,7.702 Z" id="Path" fill="#48008b" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
